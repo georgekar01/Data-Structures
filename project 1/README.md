@@ -1,0 +1,1 @@
+The purpose of the assignment is to become familiar with basic abstract data types such as stacks and FIFO queues. The assignment consists of 2 ADT implementations (Part A) and 2 applications (Parts B and C)
